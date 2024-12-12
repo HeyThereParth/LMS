@@ -1,4 +1,4 @@
- LMS Platform - MERN Stack
+## Learning Management System
 
 ## Overview
 The LMS (Learning Management System) platform is a web application designed to facilitate online learning and course management. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, it incorporates payment processing with Stripe and media management via Cloudinary.
